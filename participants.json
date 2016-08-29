@@ -4,4 +4,9 @@
         "email" : "ricardo.batista@olx.com",
         "departament" : "Space Cake Cars"
     }
+    {
+	"name" : "Jose Antunes",
+	"email" : "jose.antunes@olx.com",
+	"department" : "Realestate"
+    }
 ]
